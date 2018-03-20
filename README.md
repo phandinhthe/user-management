@@ -11,6 +11,7 @@ _ Create user
               "birthday": "1991-03-20T20:58:11.173+0000",
               "emailAddress": "phandinhthe1991@gmail.com"
          }
+
 _ Read all users
   + Method: Get
   + Url: localhost:8080/user-management/users
