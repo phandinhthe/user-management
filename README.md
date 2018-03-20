@@ -33,6 +33,7 @@ _ Update user
                 "birthday": "1991-03-20T20:58:11.173+0000",
                 "emailAddress": "phandinhthe1991@gmail.com"
               }
+  + Note: Cannot update fullName, value of fullName is combination of firstName, middleName, lastName
 
 _ Delete user
   + Method: Delete
